@@ -1,0 +1,256 @@
+@media only screen and (max-width: 950px) {
+    nav .next1 {
+        display: none;
+    }
+
+    .daddy {
+        display: none;
+    }
+
+    .in {
+        display: none;
+    }
+
+    br {
+        display: none;
+    }
+
+    .diffrent {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 5px;
+    }
+
+    .diff-2 {
+        display: flex;
+        justify-content: space-evenly;
+        width: 42%;
+    }
+
+    .diffrent i {
+        font-size: 20px;
+    }
+
+    .diffrent .diff-2 .fa-heart {
+        font-size: 20px;
+    }
+
+    .web {
+        height: 500px;
+        text-align: center;
+    }
+
+    .web h3 {
+        text-align: center;
+        line-height: 3;
+        font-size: 21px;
+    }
+
+    .web .none {
+        width: 90%;
+        font-size: 26px;
+        line-height: 1.4;
+        margin-top: 18px;
+        padding-left: 27px;
+        padding-right: 0%;
+    }
+
+    .web .none1 {
+        margin-top: 14px;
+        line-height: 1.6;
+        width: 90%;
+        padding-left: 32px;
+        font-size: 13px;
+    }
+
+    .web .none iframe {
+        width: 90%;
+        float: none;
+        padding: 0;
+        border: none;
+        height: 100%;
+    }
+
+    .world .get1 {
+        font-size: 14px;
+        padding-top: 27px;
+    }
+
+    .world .get2 {
+        padding: 0%;
+        font-size: 21px;
+    }
+
+    .world .get3 {
+        font-size: 13px;
+        padding: 5px 45px;
+        font-weight: 400;
+        letter-spacing: 0px;
+    }
+
+    .all-boxes {
+        width: 100%;
+        display: block;
+        height: auto;
+        margin-top: 20px;
+    }
+
+    .all-boxes .box {
+        width: 100%;
+    }
+
+    .box img {
+        padding: 3px 6px;
+        width: 100%;
+    }
+
+    .country {
+        width: 100%;
+        display: block;
+        height: auto;
+    }
+
+    .country .china {
+        width: 100%;
+    }
+
+    .china img {
+        padding: 3px 6px;
+        width: 100%;
+    }
+
+    .down2 {
+        width: 100%;
+        display: none;
+    }
+
+    .acpk {
+        display: block;
+    }
+
+    .acpk-1 {
+        display: flex;
+        width: 100%;
+        padding: 3px 6px;
+    }
+
+    .acpk-1 img {
+        width: 50%;
+
+    }
+
+    .down1 .dell {
+        margin-top: 20px;
+        font-size: 25px;
+        text-align: center;
+        line-height: 10px;
+        font-weight: 400;
+    }
+
+    .down1 .dell1 {
+        text-align: center;
+        font-size: 15px;
+        padding: 13px 10px;
+    }
+
+    .loop .while {
+        font-size: 24px;
+        text-align: center;
+        color: #000042;
+        padding-top: 19px;
+    }
+
+    .loop .while1 {
+        text-align: center;
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+
+    .loop .while2 {
+        display: none;
+    }
+
+    .loop .while3 {
+        display: none;
+    }
+
+    .loop {
+        height: 930px;
+    }
+
+    .acpk-3 {
+        display: block;
+    }
+
+    .acpk-3 .acpk-2 {
+        width: 100%;
+        padding: 23px 47px;
+    }
+
+    .acpk-3 .acpk-2 img {
+        width: 100%;
+        margin: 0%;
+    }
+    .footer{
+        display: none;
+    }
+
+    .sony{
+        display: block;
+        margin-top: 0%;
+        padding-left: 15px;
+        font-size: 12px;
+    }
+
+    .sony1{
+        display: none;
+    }
+
+    .sony .mori2 {
+        padding: 0%;
+        background-color: #000042;
+        display: flex;
+        width: 100%;
+        margin: 0%;    
+    }
+    
+    .footer-2{
+        display: block;
+    }
+
+    .footer-2 .foot a{
+        text-decoration: none;
+        color: #fff;
+        font-size: 10px;
+    }
+
+    .footer-2 .foot p{
+        color: #fff;
+        font-size: 15px;
+    }
+
+    .footer-2 .foot .foot-2{
+        padding: 10px 0px;
+    }
+
+    .footer-2 .foot .foot-2 .aa{
+        display: none;
+    }
+
+    .footer-2 .foot .foot-2:hover .aa {
+        display: flex;
+    }
+
+    .footer-2 .foot .foot-2 .aa ul{
+        padding-right: 50px;
+    }
+
+    .footer-2 .foot .foot-2 li{
+        list-style-type: none;
+    }
+
+    body .fa-comment-dots{
+        display: none;
+    }
+
+}
